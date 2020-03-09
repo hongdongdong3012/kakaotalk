@@ -1,0 +1,24 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid #eee;
+  background: #fff;
+  z-index: 100;
+}
+.nav {
+  height: 60px;
+}
+.nav_list {
+  width: 100%;
+  clear: both;
+  display: flex;
+  justify-content: space-around;
+}
+.nav_list-item {
+  line-height: 60px;
+}
+.fas,
+.far {
+  color: #020202;
+}
