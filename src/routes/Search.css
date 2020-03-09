@@ -1,0 +1,106 @@
+.main {
+  padding: 110px 20px 50px;
+  width: calc(100% - 40px);
+}
+.longMenu {
+  overflow-x: auto;
+}
+.menuUl {
+  display: flex;
+  justify-content: space-around;
+  width: 140%;
+}
+.menuList {
+  font-size: 20px;
+  padding: 14px 0;
+}
+h3 {
+  font-size: 18px;
+  color: #222;
+}
+.corona {
+  width: 100%;
+  margin-left: -20px;
+  height: 60px;
+  background: rgb(247, 247, 247);
+  margin-bottom: 14px;
+  padding: 20px;
+  display: table;
+  vertical-align: middle;
+}
+.coronaUl {
+  display: flex;
+  margin-top: 12px;
+}
+.coronaList {
+  margin-right: 10px;
+  color: rgb(231, 167, 167);
+}
+.fa-chevron-right {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 12px;
+}
+.centerT {
+  text-align: center;
+}
+b {
+  font-weight: 700;
+}
+.fa-globe-asia {
+  display: inline-block;
+  font-size: 30px;
+  margin: 0;
+  vertical-align: sub;
+  color: #9784ff;
+}
+.centerH3 {
+  display: table-cell;
+  vertical-align: middle;
+}
+.newsList {
+  font-size: 18px;
+  padding: 18px 0;
+  border-bottom: 1px solid rgb(216, 216, 216);
+}
+.newsList:last-child {
+  border-bottom: 0;
+}
+.bigNewUl {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 150px;
+  margin-bottom: 16px;
+}
+.bigNewList {
+  width: calc(50% - 10px);
+}
+.imageBox {
+  width: 100%;
+  height: 110px;
+}
+.textBox {
+  width: 100%;
+  height: 36px;
+  padding-top: 8px;
+}
+img {
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}
+
+.ad {
+  position: relative;
+  height: 300px;
+}
+.adIcon {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 4px;
+  border: 2px solid #222;
+  border-radius: 4px;
+  font-weight: 600;
+}

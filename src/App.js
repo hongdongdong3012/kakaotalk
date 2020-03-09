@@ -1,18 +1,34 @@
 import React from "react";
-import TopMenu from "./Component/TopMenu";
-import Footer from "./Component/Footer";
-import Profile from "./Component/Profile";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+
+// import TopMenu from "./Component/TopMenu";
+// import Footer from "./Component/Footer";
+// import Profile from "./Component/Profile";
 import "./App.css";
-import Massage from "./Screens/Massage";
+import Home from "./routes/Home";
+import Chatting from "./routes/Chatting";
+import Footer from "./Component/Footer";
+import Search from "./routes/Search";
+import About from "./routes/About";
 
 function App() {
   return (
-    <div>
-      <TopMenu />
+    <Router>
+      <div>
+        {/* <TopMenu />
       <Profile />
-      {/* <Massage /> */}
-      <Footer />
-    </div>
+      <Footer /> */}
+        <div>
+          <Switch>
+            <Route exact path="/" component={Home} />
+            <Route path="/chatting" component={Chatting} />
+            <Route path="/search" component={Search} />
+            <Route path="/about" component={About} />
+          </Switch>
+        </div>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 

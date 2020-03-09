@@ -40,7 +40,7 @@ class TopMenu extends Component {
           </div>
         </div>
         <div className="friend">
-          <div className="myFriend">친구</div>
+          <div className="myFriend">{this.props.name}</div>
           <div>
             <span className="header_icon">
               <i className="fas fa-search"></i>
