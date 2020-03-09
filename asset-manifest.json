@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.29af8409.chunk.css",
-    "main.js": "/static/js/main.0f5c57eb.chunk.js",
-    "main.js.map": "/static/js/main.0f5c57eb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e3230d9c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e3230d9c.js.map",
-    "static/js/2.5a889d3a.chunk.js": "/static/js/2.5a889d3a.chunk.js",
-    "static/js/2.5a889d3a.chunk.js.map": "/static/js/2.5a889d3a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bc22368ffa2fa121b4c50f94640571ac.js": "/precache-manifest.bc22368ffa2fa121b4c50f94640571ac.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.29af8409.chunk.css.map": "/static/css/main.29af8409.chunk.css.map",
-    "static/js/2.5a889d3a.chunk.js.LICENSE.txt": "/static/js/2.5a889d3a.chunk.js.LICENSE.txt",
-    "static/media/corona.jpg": "/static/media/corona.564b2d40.jpg",
-    "static/media/five.jpg": "/static/media/five.52553fa3.jpg",
-    "static/media/ironman.jpg": "/static/media/ironman.5c4c7409.jpg",
-    "static/media/네오.png": "/static/media/네오.2e6b205e.png",
-    "static/media/어피치1.png": "/static/media/어피치1.ea17c794.png",
-    "static/media/어피치2.png": "/static/media/어피치2.a6ba65ae.png",
-    "static/media/잠옷라이언.png": "/static/media/잠옷라이언.33d0f37d.png",
-    "static/media/제이지.png": "/static/media/제이지.5338b05b.png"
+    "main.css": "/kakaotalk/static/css/main.29af8409.chunk.css",
+    "main.js": "/kakaotalk/static/js/main.b2605329.chunk.js",
+    "main.js.map": "/kakaotalk/static/js/main.b2605329.chunk.js.map",
+    "runtime-main.js": "/kakaotalk/static/js/runtime-main.52e5c7a1.js",
+    "runtime-main.js.map": "/kakaotalk/static/js/runtime-main.52e5c7a1.js.map",
+    "static/js/2.5a889d3a.chunk.js": "/kakaotalk/static/js/2.5a889d3a.chunk.js",
+    "static/js/2.5a889d3a.chunk.js.map": "/kakaotalk/static/js/2.5a889d3a.chunk.js.map",
+    "index.html": "/kakaotalk/index.html",
+    "precache-manifest.673b0d341e15e0657b56ec20b2ef5e57.js": "/kakaotalk/precache-manifest.673b0d341e15e0657b56ec20b2ef5e57.js",
+    "service-worker.js": "/kakaotalk/service-worker.js",
+    "static/css/main.29af8409.chunk.css.map": "/kakaotalk/static/css/main.29af8409.chunk.css.map",
+    "static/js/2.5a889d3a.chunk.js.LICENSE.txt": "/kakaotalk/static/js/2.5a889d3a.chunk.js.LICENSE.txt",
+    "static/media/corona.jpg": "/kakaotalk/static/media/corona.564b2d40.jpg",
+    "static/media/five.jpg": "/kakaotalk/static/media/five.52553fa3.jpg",
+    "static/media/ironman.jpg": "/kakaotalk/static/media/ironman.5c4c7409.jpg",
+    "static/media/네오.png": "/kakaotalk/static/media/네오.2e6b205e.png",
+    "static/media/어피치1.png": "/kakaotalk/static/media/어피치1.ea17c794.png",
+    "static/media/어피치2.png": "/kakaotalk/static/media/어피치2.a6ba65ae.png",
+    "static/media/잠옷라이언.png": "/kakaotalk/static/media/잠옷라이언.33d0f37d.png",
+    "static/media/제이지.png": "/kakaotalk/static/media/제이지.5338b05b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3230d9c.js",
+    "static/js/runtime-main.52e5c7a1.js",
     "static/js/2.5a889d3a.chunk.js",
     "static/css/main.29af8409.chunk.css",
-    "static/js/main.0f5c57eb.chunk.js"
+    "static/js/main.b2605329.chunk.js"
   ]
 }
