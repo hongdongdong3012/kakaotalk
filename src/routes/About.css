@@ -17,7 +17,7 @@
 .about .email {
   font-weight: 300;
   margin-top: 8px;
-  font-size: 16px;
+  font-size: 14px;
 }
 .kakaoPay {
   width: calc(100% - 40px);
@@ -28,6 +28,9 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.kakaoPay .left {
+  font-size: 14px;
 }
 .kakaoPay .left .pay {
   display: inline-block;
@@ -49,19 +52,21 @@
 .kakaoPay .right .rightFirst {
   position: relative;
   padding-right: 10px;
+  font-size: 14px;
 }
 .kakaoPay .right .rightFirst::after {
   content: "";
   display: inline-block;
   width: 1px;
-  height: 18px;
+  height: 14px;
   background: #222;
   position: absolute;
-  left: 50px;
-  top: 6px;
+  left: 38px;
+  top: 4px;
 }
 .kakaoPay .right .rightEnd {
   padding-left: 10px;
+  font-size: 14px;
 }
 .aboutIcon {
   display: flex;
@@ -95,7 +100,7 @@
 .makeContent {
   width: 50%;
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
 }
 .makeContent .fas {
   margin-right: 8px;
@@ -107,4 +112,7 @@
 .vertical {
   display: inline-block;
   vertical-align: initial;
+}
+.iconName {
+  font-size: 12px;
 }
