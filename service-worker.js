@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kakaotalk/precache-manifest.673b0d341e15e0657b56ec20b2ef5e57.js"
+  "/kakaotalk/precache-manifest.5488f69d26e77f2cb8a44a396cf3fb07.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3f47372b038077dcc7fca81632be7e4",
+    "revision": "ca159adcc7646a78e3d9b356afce385e",
     "url": "/kakaotalk/index.html"
   },
   {
-    "revision": "f021c3e170ea354308d9",
-    "url": "/kakaotalk/static/css/main.29af8409.chunk.css"
+    "revision": "456e0668a34ba51e2e99",
+    "url": "/kakaotalk/static/css/main.49a9a712.chunk.css"
   },
   {
-    "revision": "fe81d37c890a35def2e9",
-    "url": "/kakaotalk/static/js/2.5a889d3a.chunk.js"
+    "revision": "aeed464f8cecfe47e873",
+    "url": "/kakaotalk/static/js/2.25a41326.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/kakaotalk/static/js/2.5a889d3a.chunk.js.LICENSE.txt"
+    "url": "/kakaotalk/static/js/2.25a41326.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f021c3e170ea354308d9",
-    "url": "/kakaotalk/static/js/main.b2605329.chunk.js"
+    "revision": "456e0668a34ba51e2e99",
+    "url": "/kakaotalk/static/js/main.4b1f2d5c.chunk.js"
   },
   {
     "revision": "329570dc463f3ba5ea62",
