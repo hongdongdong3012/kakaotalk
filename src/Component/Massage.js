@@ -66,7 +66,7 @@ class Massage extends Component {
         id: 7,
         name: "잠옷입은 라이언",
         image: lion,
-        chat: "ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ",
+        chat: "ㅇㅇㅇd",
         date: "3월7일"
       },
       {
