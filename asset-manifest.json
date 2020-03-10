@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kakaotalk/static/css/main.49a9a712.chunk.css",
+    "main.css": "/kakaotalk/static/css/main.0823bbb4.chunk.css",
     "main.js": "/kakaotalk/static/js/main.4b1f2d5c.chunk.js",
     "main.js.map": "/kakaotalk/static/js/main.4b1f2d5c.chunk.js.map",
     "runtime-main.js": "/kakaotalk/static/js/runtime-main.52e5c7a1.js",
@@ -8,9 +8,9 @@
     "static/js/2.25a41326.chunk.js": "/kakaotalk/static/js/2.25a41326.chunk.js",
     "static/js/2.25a41326.chunk.js.map": "/kakaotalk/static/js/2.25a41326.chunk.js.map",
     "index.html": "/kakaotalk/index.html",
-    "precache-manifest.5488f69d26e77f2cb8a44a396cf3fb07.js": "/kakaotalk/precache-manifest.5488f69d26e77f2cb8a44a396cf3fb07.js",
+    "precache-manifest.2a2aee0f23af14172118272c95a8f1a4.js": "/kakaotalk/precache-manifest.2a2aee0f23af14172118272c95a8f1a4.js",
     "service-worker.js": "/kakaotalk/service-worker.js",
-    "static/css/main.49a9a712.chunk.css.map": "/kakaotalk/static/css/main.49a9a712.chunk.css.map",
+    "static/css/main.0823bbb4.chunk.css.map": "/kakaotalk/static/css/main.0823bbb4.chunk.css.map",
     "static/js/2.25a41326.chunk.js.LICENSE.txt": "/kakaotalk/static/js/2.25a41326.chunk.js.LICENSE.txt",
     "static/media/corona.jpg": "/kakaotalk/static/media/corona.564b2d40.jpg",
     "static/media/five.jpg": "/kakaotalk/static/media/five.52553fa3.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.52e5c7a1.js",
     "static/js/2.25a41326.chunk.js",
-    "static/css/main.49a9a712.chunk.css",
+    "static/css/main.0823bbb4.chunk.css",
     "static/js/main.4b1f2d5c.chunk.js"
   ]
 }
